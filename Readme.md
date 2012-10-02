@@ -1,1 +1,1 @@
-Testing implementation of sounmanager2 using audio files
+Testing implementation of soundmanager2 using audio files
